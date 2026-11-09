@@ -80,6 +80,30 @@ These differences illustrate how process analytics can help identify operational
 
 ![Community Sponsorship Analytics Dashboard](excel-dashboard.PNG)
 
+### Power BI Dashboard
+
+The Power BI dashboard provides an interactive comparison of simulated application processing performance before and after the scenario boundary.
+
+The dashboard includes KPI cards, processing-time comparisons, RFI metrics, and dynamic executive insights that respond to application classification selections.
+
+#### Overall Performance
+
+![Power BI Overall Dashboard](powerbi-overall.PNG)
+
+#### Class A Analysis
+
+Selecting Class A filters the visualizations and displays classification-specific insights.
+
+![Power BI Class A Analysis](powerbi-class-a.PNG)
+
+#### Class B Analysis
+
+Selecting Class B highlights differences in processing performance and potential areas for further investigation.
+
+![Power BI Class B Analysis](powerbi-class-b.PNG)
+
+**Technical Highlight:** A DAX measure using `SWITCH()` and the selected application classification dynamically updates the Executive Insights narrative.
+
 ## 6. Business Recommendations
 
 Based on the simulated analysis:
