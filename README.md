@@ -76,6 +76,9 @@ The relative reduction in RFI rate is 55.0%.
 Class B processing time also decreased, but the simulated improvement was considerably smaller than for Class A applications.
 
 These differences illustrate how process analytics can help identify operational patterns and areas for further investigation.
+### Excel Dashboard
+
+![Community Sponsorship Analytics Dashboard](excel-dashboard.PNG)
 
 ## 6. Business Recommendations
 
