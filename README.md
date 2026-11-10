@@ -150,7 +150,7 @@ The project is designed to showcase:
 - Tableau dashboard
 - Business findings and recommendations
 
-Supporting files and dashboard screenshots will be added to this repository after validation.
+The repository includes the validated synthetic Excel analytics workbook and dashboard screenshots developed using Excel, Power BI, and Tableau. These deliverables demonstrate data preparation, KPI development, business process analysis, and cross-platform data visualization.
 
 ## 8. Data Privacy and Disclaimer
 
