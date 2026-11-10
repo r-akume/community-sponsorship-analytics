@@ -1,18 +1,29 @@
 # Community Sponsorship Process Analytics
 
-### Business Intelligence | Process Improvement | Data Visualization
+**Business Intelligence | Process Improvement | Data Visualization**
 
-**Tools:** Microsoft Excel, Power Query, PivotTables, Power BI, Tableau
-
-**Project Type:** Synthetic business process analytics case study
+**Tools:** Excel, Power Query, PivotTables, Power BI, DAX, Tableau
 
 ## 1. Project Overview
 
-This project analyzes a simulated community sponsorship application approval process to identify workflow bottlenecks, evaluate processing efficiency, and communicate operational performance through data visualization.
+An end-to-end business process analytics case study examining application processing efficiency, workflow bottlenecks, and Requests for Information (RFIs) across 180 synthetic sponsorship applications.
 
-The business scenario is inspired by my professional experience in banking and financial services, including work at JPMorgan Chase.
+Inspired by professional experience in banking and financial services, this project demonstrates how operational data can be transformed into actionable business insights through KPI development, comparative analysis, and interactive dashboards.
 
-All application records and performance results in this project are synthetic. No actual JPMorgan Chase application records or confidential business data were used.
+### Key Findings — Simulated Scenarios
+
+- **41.8% lower overall processing time** in the After scenario.
+- **55.0% relative reduction in RFI frequency**, from 44.4% to 20.0%.
+- **64.5% lower average RFI resolution time**, from 10.95 to 3.89 days.
+- **62.1% lower Class A processing time**, compared with a more modest improvement for Class B.
+
+### Explore the Dashboards
+
+- [Excel Analytics Workbook](Community_Sponsorship_Analytics_Synthetic_Corrected.xlsx)
+- [Power BI Dashboard and Source File](Application_Processing_PowerBI.pbix)
+- [Tableau Dashboard and Source File](Application_Processing_Tableau.twbx)
+
+**Data Disclosure:** All records and results are synthetic. The findings demonstrate analytical methods and do not represent actual employer performance or establish causal effects.
 
 ## 2. Business Problem
 
