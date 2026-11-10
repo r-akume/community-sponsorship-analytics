@@ -104,6 +104,30 @@ Selecting Class B highlights differences in processing performance and potential
 
 **Technical Highlight:** A DAX measure using `SWITCH()` and the selected application classification dynamically updates the Executive Insights narrative.
 
+## Tableau Dashboard
+
+The Tableau dashboard provides an additional visualization of the synthetic application processing dataset, comparing performance across the Before and After scenarios.
+
+The dashboard includes three key performance metrics:
+
+- **Average Processing Time:** 33.08 → 19.24 days (41.8% lower)
+- **RFI Rate:** 44.44% → 20.00% (55.0% relative reduction)
+- **Average RFI Resolution Time:** 10.95 → 3.89 days (64.5% lower)
+
+### Overall Performance
+
+![Tableau Overall Dashboard](tableau-overall.PNG)
+
+### Technical Highlights
+
+- Developed three comparative bar charts using Tableau.
+- Applied consistent color encoding to distinguish Before and After scenarios.
+- Implemented a Classification filter for Class A and Class B applications.
+- Added data labels, descriptive titles, and an executive summary.
+- Designed the dashboard to communicate simulated performance differences to nontechnical stakeholders.
+
+**Data Disclosure:** The analysis uses 180 synthetic applications. The simulated results do not establish actual organizational performance improvements or causal effects.
+
 ## 6. Business Recommendations
 
 Based on the simulated analysis:
